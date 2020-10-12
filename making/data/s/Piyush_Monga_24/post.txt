@@ -1,0 +1,2 @@
+<div id='post'>nyc here
+</div><hr width='500' color='darkgreen'>

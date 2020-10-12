@@ -1,0 +1,3 @@
+<table><tr><td>Address</td><td><textarea rows='5' cols='30' name='address' id='input' readonly>Bageshwar</textarea></td></tr>
+<tr><td>Contact Info</td><td><textarea rows='5' cols='30' name='contact_info' id='input'readonly></textarea></td></tr>
+<tr><td>Educational Qualification</td><td><textarea rows='5' cols='30' name='edu_qua' id='input'readonly></textarea></td></tr></table>

@@ -1,0 +1,8 @@
+			
+			<h2>New Post </h2>
+ 			<center>
+			<FORM action="user_post.asp" METHOD="POST"><textarea  id="input" name="post"  cols="60"  
+
+rows="7">	
+     				</textarea></center>
+            			<center><input type="Submit" value="Submit" class="btn"></FORM></center>

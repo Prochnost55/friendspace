@@ -1,0 +1,2 @@
+<div id='send'>tu kaisa hai</div>
+<div id='rec'>tu kaisa hai</div>

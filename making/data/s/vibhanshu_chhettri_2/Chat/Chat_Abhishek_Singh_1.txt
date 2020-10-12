@@ -1,0 +1,10 @@
+<div id="mainContent">
+
+<div id='send'>hi</div>
+<div id='rec'>how are you</div>
+<div id='send'>mast hu boss</div>
+<div id='rec'>hoga ku ni</div>
+<div id='send'>&lt;b&gt;asdasd&lt;/b&gt;</div>
+<div id='send'><b>asdasd</b></div>
+<div id='send'>:)</div>
+<div id='rec'>PK</div>

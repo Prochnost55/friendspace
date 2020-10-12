@@ -1,0 +1,3 @@
+ 	<form action="chat_process.asp" method="post">
+        <input type="text" id="input" size="50" name="reply"><input type="submit" value="Reply" class="btn">
+        </form> 

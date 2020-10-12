@@ -1,0 +1,3 @@
+<table><tr><td>Address</td><td><textarea rows='5' cols='30' name='address' id='input'>Pratibha typing institute,Gandhi stadium roadpilibhit(UP)262001</textarea></td></tr>
+<tr><td>Contact Info</td><td><textarea rows='5' cols='30' name='contact_info' id='input'>8475898560</textarea></td></tr>
+<tr><td>Educational Qualification</td><td><textarea rows='5' cols='30' name='edu_qua' id='input'>Studying in Sainik School Ghorakhal...</textarea></td></tr></table>

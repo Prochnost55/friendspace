@@ -1,0 +1,3 @@
+<div id='MainContent'>
+<div id='rec'>hey</div>
+<div id='send'>hi</div>

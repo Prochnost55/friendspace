@@ -1,0 +1,2 @@
+<div id='post'>hi frnz
+</div><hr width='500' color='darkgreen'>

@@ -1,0 +1,3 @@
+<hr width='500' color='darkgreen'><h3>Comments by</h3>
+<div id='cmnt'><font color='#09f'>Kritarth : </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mast hai boss</div>
+<div id='cmnt'><font color='#09f'>Abhishek : </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hmm nyc one</div>
